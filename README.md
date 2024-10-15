@@ -89,8 +89,7 @@ Here's how the final processed data looks in python(pandas):
 
 ### 1.Moving Average
 - The first set of visuals highlights changes in stock prices and calculated moving averages over time.
-![Moving Averages](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Dashboard/Moving%20Price.png)
-
+![Moving Average](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Dashboard/Moving%20average.png)
 
 
 ### 2.Price Percent change
