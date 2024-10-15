@@ -19,7 +19,7 @@ Sourced from Kaggle, the historical stock data is cleaned and transformed, enabl
 
 This project aims to provide valuable insights that support informed investment decisions, helping investors navigate the complexities of the stock market effectively.
 
-## Business Demand Letter [View]
+## Business Demand Letter [View](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Business%20Ticket/Business%20Demand%20Overview%20%26%20User%20Stories..docx)
 Client: John – Portfolio Manager
 
 Hi Manish,
