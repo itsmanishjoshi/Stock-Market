@@ -1,4 +1,4 @@
-# Stock Market Analysis Project
+# Stock Market Analysis
 
 ## Table of contents
 - [Project Overview](#Project-Overview)
