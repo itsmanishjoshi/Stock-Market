@@ -13,10 +13,9 @@
 
 
 ## Project Overview
-The Stock Market Analysis Project evaluates stock price trends and performance for six major companies over several years. Utilizing Pandas for data analysis and Tableau for visualization, the project identifies key patterns, including price fluctuations and moving averages.
+The Stock Market Analysis Project provides a comprehensive evaluation of stock price trends and performance for six leading companies over an extended period. By leveraging Pandas for robust data analysis and Tableau for dynamic visualizations, this project aims to identify critical patterns and insights, including price fluctuations, moving averages, and overall market performance. 
 
 Sourced from Kaggle, the historical stock data is cleaned and transformed, enabling the creation of interactive dashboards. These dashboards facilitate tracking of stock performance and allow for filtering by stock symbols and time periods.
-
 This project aims to provide valuable insights that support informed investment decisions, helping investors navigate the complexities of the stock market effectively.
 
 ## Business Demand Letter [View](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Business%20Ticket/Business%20Demand%20Overview%20%26%20User%20Stories..docx)
@@ -33,16 +32,21 @@ John
 
 |No. | As a (role) | I want (request/demand) |
 |---|---|---|
-|1. | Portfolio Manager: |To get a dashboard overview of stock market performance over time. |
-|2. | Investment Analyst: |A detailed overview of stock price movements by individual stock symbols. |
+|1. | Portfolio Manager |To get a dashboard overview of stock market performance over time. |
+|2. | Investment Analyst |A detailed overview of stock price movements by individual stock symbols. |
 
 
 
 ## Tools Used
-- Pandas: Data Cleaning, Data Wrangling, and Analysis
-- Tableau: Creating Interactive Visualizations and Dashboards
+- Pandas: Data Cleaning, adding columns and calculating Moving Averages.
+- Tableau: Creating Interactive Visualizations and Dashboards.
 
 ## Data Preparation
+In the initial data preperation phase, we performed the following tasks:
+
+1. Data loading and inspection.
+2. Handling Missing Data.
+3. Data cleaning and preperation.
 
 ### Excel
 The raw data looks similar to the pic below, (Apple)
