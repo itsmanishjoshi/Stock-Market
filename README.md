@@ -31,8 +31,10 @@ John
 
 ## Business Requests and User Stories [View](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Business%20Ticket/Eample%20Business%20Request%20-%20Mail%20from%20Client..docx)
 
-1. Portfolio Manager: To get a dashboard overview of stock market performance over time.
-2. Investment Analyst: A detailed overview of stock price movements by individual stock symbols.
+|No. | As a (role) | I want (request/demand) |
+|---|---|---|
+|1. | Portfolio Manager: |To get a dashboard overview of stock market performance over time. |
+|2. | Investment Analyst: |A detailed overview of stock price movements by individual stock symbols. |
 
 
 
