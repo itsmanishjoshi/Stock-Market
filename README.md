@@ -50,7 +50,7 @@ In the initial data preperation phase, we performed the following tasks:
 
 ### Excel
 The raw data looks similar to the pic below, (Apple)
-![Excel data sample](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Pandas/Raw%20data%20-%20apple%20ss.png)
+![Excel data sample](https://github.com/itsmanishjoshi/Stock-Market/blob/master/1.%20Data/apple_csv%20-%20img.png)
 
 ### Pandas
 During the initial data preparation phase, the following tasks were performed:
@@ -87,7 +87,7 @@ for i in df:
 ```
 
 Here's how the final processed data looks in python(pandas):
-![pandas](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Pandas/Pandas%20final%20out%20ss.png)
+![pandas](https://github.com/itsmanishjoshi/Stock-Market/blob/master/3.%20Pandas/df.head()%20-%20img.png)
 
 ## Data Visualisation (Tableau)
 
@@ -95,21 +95,21 @@ Here's how the final processed data looks in python(pandas):
 
 ### 1.Moving Average
 - The first set of visuals highlights changes in stock prices and calculated moving averages over time.
-![Moving Average](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Dashboard/Moving%20average.png)
+![Moving Average](https://github.com/itsmanishjoshi/Stock-Market/blob/master/4.%20Dashboard/images/Moving%20average.png)
 
 
 ### 2.Price Percent change
 - The second set of visuals highlights changes in stock prices and providing insights into price trends and the volume of price.
-![Price change](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Dashboard/Price%20percent%20change.png)
+![Price change](https://github.com/itsmanishjoshi/Stock-Market/blob/master/4.%20Dashboard/images/Price%20percent%20change.png)
 
 
 ### 3.Dashboard
 
 - The final image showcases the completed interactive Tableau dashboard, integrating these insights for comprehensive stock performance tracking."
 
-![](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Dashboard/Dashboard%20ss.jpg)
+![](https://github.com/itsmanishjoshi/Stock-Market/blob/master/4.%20Dashboard/images/Dashboard%20ss.jpg)
 
-To download the final Tableau file, please [click here](https://github.com/itsmanishjoshi/StockMarket-Analysis/blob/master/Dashboard/Stock%20Market.twb)
+To download the final Tableau file, please [click here](https://github.com/itsmanishjoshi/Stock-Market/blob/master/4.%20Dashboard/Stock%20Market.twb)
 
 
 ## Data Source
